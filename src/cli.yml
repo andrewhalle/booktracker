@@ -1,0 +1,13 @@
+name: btrack
+version: "0.1"
+author: "Andrew Halle <me@andrewhalle.dev>"
+about: Track progress in books, take notes on them
+subcommands:
+  - init:
+      about: Initialize the books database
+      version: "0.1"
+      author: "Andrew Halle <me@andrewhalle.dev>"
+  - teardown:
+      about: Remove the books database
+      version: "0.1"
+      author: "Andrew Halle <me@andrewhalle.dev>"
